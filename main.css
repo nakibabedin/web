@@ -1,1 +1,26 @@
+/*
+Nakib Abedin
+IntroCS pd02 sec02
+HW #5
+2021-02-19
+*/
 
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: blue;
+}
+
+body {
+ 
+  margin-right: 200px;
+  margin-left: 80px;
+  background-color: red;
+}
