@@ -8,14 +8,17 @@ HW #5 Stuylin'
 
 h1 {
   font-size: 50px;
+  font-family:fantasy;
 }
 
 h2 {
   color: blue;
+  font-family:serif;
 }
 
 h3 {
   color: blue;
+  font-family:serif;
 }
 
 body {
